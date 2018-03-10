@@ -1,2 +1,2 @@
 # exercise
-made for exercises
+made for stupid exercises 
