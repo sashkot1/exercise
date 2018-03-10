@@ -1,4 +1,3 @@
 
 # exercise
-Countinue trying.
 
